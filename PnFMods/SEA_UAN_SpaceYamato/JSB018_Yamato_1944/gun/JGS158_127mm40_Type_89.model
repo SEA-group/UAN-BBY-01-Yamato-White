@@ -1,7 +1,6 @@
 <JGS158_127mm40_Type_89.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_SpaceYamato/JSB018_Yamato_1944/gun/lods/JGS158_127mm40_Type_89_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_SpaceYamato/JSB018_Yamato_1944/gun/JGS158_127mm40_Type_89	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_SpaceYamato/JSB018_Yamato_1944/gun/JGS158_127mm40_Type_89.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JGS158_127mm40_Type_89.model>
